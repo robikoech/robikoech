@@ -1,5 +1,7 @@
 Hi there,
-<h3 align="center">I am an experienced Data scientist from Kenya. My journey in data science has been exciting, filled with continuous learning and exploration. I'm dedicated to leveraging data to drive informed decisions and create meaningful solutions.</h3>
+
+
+I am an experienced Data scientist from Kenya. My journey in data science has been exciting, filled with continuous learning and exploration. I'm dedicated to leveraging data to drive informed decisions and create meaningful solutions.
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
